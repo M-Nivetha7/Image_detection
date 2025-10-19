@@ -27,8 +27,3 @@ This project implements a **Convolutional Neural Network (CNN)** to detect wheth
 - NumPy, Matplotlib  
 
 ---
-
-## Installation ⚡
-1. Clone the repository:  
-```bash
-git clone <your-repo-link>
